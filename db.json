@@ -1,0 +1,74 @@
+{
+  "videos": [
+    {
+      "id": "3",
+      "caption": "Rose",
+      "thumpnail": "https://c4.wallpaperflare.com/wallpaper/388/461/138/rose-blackpink-k-pop-blackpink-hd-wallpaper-preview.jpg",
+      "url": "http://www.youtube.com/embed/szvt1vD0Uug"
+    },
+    {
+      "id": "5",
+      "caption": "Justin",
+      "thumpnail": "https://www.ireport.cz/files/66_13510_81145.jpg",
+      "url": "http://www.youtube.com/embed/szvt1vD0Uug"
+    },
+    {
+      "id": "6",
+      "caption": "Billie eilish",
+      "thumpnail": "https://lh3.googleusercontent.com/yLDtkS7WtpssYjkZUFaKL-QoN5lqT0gkpY91hzpyLxMjku5VumXv2lLvjrPeW6UGre6AsKMPrXDvwFo=w2880-h1200-p-l90-rj",
+      "url": "http://www.youtube.com/embed/szvt1vD0Uug"
+    },
+    {
+      "id": "8",
+      "caption": "Lisa",
+      "thumpnail": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/07/horlisaaa-1689247784.jpg",
+      "url": "http://www.youtube.com/embed/szvt1vD0Uug"
+    }
+  ],
+  "categories": [
+    {
+      "id": "3",
+      "name": "Bollywood",
+      "allVideos": [
+        {
+          "id": "5",
+          "caption": "Justin",
+          "thumpnail": "https://www.ireport.cz/files/66_13510_81145.jpg",
+          "url": "http://www.youtube.com/embed/szvt1vD0Uug"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Hollywood ",
+      "allVideos": [
+        {
+          "id": "3",
+          "caption": "Rose",
+          "thumpnail": "https://c4.wallpaperflare.com/wallpaper/388/461/138/rose-blackpink-k-pop-blackpink-hd-wallpaper-preview.jpg",
+          "url": "http://www.youtube.com/embed/szvt1vD0Uug"
+        }
+      ]
+    }
+  ],
+  "watch_history": [
+    {
+      "id": 1,
+      "cardName": "tom",
+      "url": "http://www.youtube.com/embed/t0Q2otsqC4I",
+      "Date": "06-11-2023"
+    },
+    {
+      "id": "51cb757f-da32-47b5-85f5-9556681edd7d",
+      "cardName": "tom",
+      "url": "http://www.youtube.com/embed/t0Q2otsqC4I",
+      "Date": "2023-11-14T11:00:48.354Z"
+    },
+    {
+      "id": "fec42c13-b71b-407d-8d03-e282c7227f68",
+      "cardName": "tom",
+      "url": "http://www.youtube.com/embed/t0Q2otsqC4I",
+      "Date": "2023-11-15T10:23:09.883Z"
+    }
+  ]
+}
